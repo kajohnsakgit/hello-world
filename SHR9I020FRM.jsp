@@ -1,4 +1,4 @@
-﻿<%@ page contentType="text/html; charset=UTF-8" language="java" import="cdgs.framework.standard.*,cdgs.framework.utils.*"%>
+﻿test<%@ page contentType="text/html; charset=UTF-8" language="java" import="cdgs.framework.standard.*,cdgs.framework.utils.*"%>
 <%@ taglib uri="/tags/struts-html" prefix="html"%>
 <%@ taglib uri="/framework" prefix="framework"%>
 <%@ taglib uri="/aczept/webui" prefix="webui"%>
